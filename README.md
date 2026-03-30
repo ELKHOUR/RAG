@@ -19,3 +19,18 @@ python -m venv venv
 ```
 venv/Scripts/activate
 ```
+
+## Installation
+
+#### Install the required packages
+
+```
+pip install -r requirements.txt
+```
+
+#### Setup the environment variables
+
+```
+cp .env.example .env
+```
+
